@@ -1,0 +1,25 @@
+{
+  "name": "coffeescript-and-reactjs",
+  "version": "0.0.0",
+  "private": true,
+  "repository": "https://github.com/GeorgyDev11111/coffeescript-and-reactjs",
+  "scripts": {
+    "dev": "coffee ./config/esbuild.coffee dev",
+    "build": "coffee ./config/esbuild.coffee build",
+    "start": "serve -s ./dist",
+    "create": "gen-component -i -st=css -e=coffee -r=src"
+  },
+  "dependencies": {
+    "dotenv": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "serve": "latest"
+  },
+  "devDependencies": {
+    "coffeescript": "latest",
+    "esbuild": "^0.15.15",
+    "gen-component": "latest",
+    "sass": "latest",
+    "stylus": "latest"
+  }
+}

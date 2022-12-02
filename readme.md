@@ -1,16 +1,18 @@
 # create-gd
 
-<!-- ### download template
+## My own web-templates
 
-npm:  `npm create-gd@latest`
+### Install
 
-yarn: `yarn create-gd@latest`
+npm:  `npm create gd@latest`
 
-pnpm: `pnpm create-gd@latest`
+yarn: `yarn create gd`
+
+pnpm: `pnpm create gd`
 
 
 ## Templates
 
 ### Esbuild
 
-* [react-coffee](templates/esbuild/react-coffee) -->
+* [react-coffee](templates/esbuild/react-coffee)
