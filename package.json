@@ -1,9 +1,12 @@
 {
   "name": "create-gd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Anufriev Georgy",
-  "homepage": "https://github.com/GeorgyDev11111/create-gd",
-  "repository": "https://github.com/GeorgyDev11111/create-gd",
+  "homepage": "https://github.com/anufriev-dev/create-gd",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anufriev-dev/create-gd.git"
+  },
   "main": "./bin/index.js",
   "license": "MIT",
   "type": "module",
