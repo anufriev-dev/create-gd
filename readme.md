@@ -1,5 +1,7 @@
 # create-gd
 
+[npm page](https://www.npmjs.com/package/create-gd)
+
 ## My own web-templates
 
 ### Install
