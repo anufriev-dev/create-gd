@@ -18,3 +18,10 @@ pnpm: `pnpm create gd`
 ### Esbuild
 
 * [react-coffee](templates/esbuild/react-coffee)
+
+
+# For develop
+
+```
+git clone --recurse-submodules https://github.com/anufriev-dev/coffeescript-and-reactjs.git
+```

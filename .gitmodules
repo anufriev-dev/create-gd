@@ -1,0 +1,3 @@
+[submodule "templates/esbuild/react-coffee"]
+	path = templates/esbuild/react-coffee
+	url = https://github.com/anufriev-dev/coffeescript-and-reactjs
