@@ -7,11 +7,8 @@
 ### Install
 
 npm:  `npm create gd@latest`
-
 yarn: `yarn create gd`
-
 pnpm: `pnpm create gd`
-
 
 ## Templates
 
@@ -24,4 +21,24 @@ pnpm: `pnpm create gd`
 
 ```
 git clone --recurse-submodules https://github.com/anufriev-dev/coffeescript-and-reactjs.git
+```
+
+Update submodules
+
+```sh
+cd path/to/submodule
+```
+
+```sh
+git pull origin master
+```
+
+Publish to npm
+
+```sh
+npm run prePublish
+```
+
+```sh
+npm publish
 ```
