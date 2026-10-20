@@ -14,7 +14,7 @@ pnpm: `pnpm create gd`
 
 ### Esbuild
 
-* [react-coffee](templates/esbuild/coffeescript-and-reactjs)
+* [react-coffee](https://github.com/anufriev-dev/coffeescript-and-reactjs)
 
 
 # For develop
